@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">NoleGame</string>
+    <string name="start">Старт</string>
+    <string name="cont">Да</string>
+    <string name="finish">Нет</string>
+    <string name="dialogMessage1">Поздравляем!\nВы прошли первый уровень!\nВы хотите продолжить?</string>
+    <string name="dialogMessage2">Поздравляем!\nВы прошли второй уровень!\nВы хотите продолжить?</string>
+    <string name="dialogMessage3">Поздравляем!\nВы прошли третий уровень!\nВы хотите продолжить?</string>
+    <string name="dialogMessage4">Поздравляем!\nВы прошли четвертый уровень!\nВы хотите продолжить?</string>
+    <string name="dialogMessage5">Ура!\nВы прошли все уровни!\nВы хотите начать заново?</string>
+    <string name="score0">Score: 0</string>
+    <string name="score1">Score: 1</string>
+    <string name="score2">Score: 2</string>
+    <string name="score3">Score: 3</string>
+    <string name="score4">Score: 4</string>
+    <string name="score5">Score: 5</string>
+    <string name="score6">Score: 6</string>
+    <string name="score7">Score: 7</string>
+    <string name="score8">Score: 8</string>
+    <string name="score9">Score: 9</string>
+    <string name="score10">Score: 10</string>
+    <string name="score11">Score: 11</string>
+    <string name="score12">Score: 12</string>
+    <string name="score13">Score: 13</string>
+    <string name="score14">Score: 14</string>
+    <string name="score15">Score: 15</string>
+    <string name="score16">Score: 16</string>
+    <string name="score17">Score: 17</string>
+    <string name="score18">Score: 18</string>
+    <string name="score19">Score: 19</string>
+    <string name="score20">Score: 20</string>
+    <string name="level1">Level: 1</string>
+    <string name="level2">Level: 2</string>
+    <string name="level3">Level: 3</string>
+    <string name="level4">Level: 4</string>
+    <string name="level5">Level: 5</string>
+
+    
+    <string name="facebook_app_id">830779627767484</string>
+</resources>
